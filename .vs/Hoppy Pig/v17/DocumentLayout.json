@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|c:\\users\\saksh\\onedrive\\desktop\\study\\gamdev\\hoppy pig\\assets\\scripts\\pigscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pigscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\assets\\scripts\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\assets\\scripts\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\assets\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC63610-E435-89B4-D073-9ED417AA6C11}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PipeMiddleScript.cs",
+              "DocumentMoniker": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PipeMiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PipeMiddleScript.cs",
+              "ToolTip": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PipeMiddleScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\PipeMiddleScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:17:47.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LogicScript.cs",
+              "ToolTip": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\LogicScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:18:13.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:07:18.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PigScript.cs",
+              "DocumentMoniker": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PigScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PigScript.cs",
+              "ToolTip": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PigScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\PigScript.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:37:46.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMoveScript.cs",
+              "DocumentMoniker": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PipeMoveScript.cs",
+              "ToolTip": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\PipeMoveScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:34:03.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PipeSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PipeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PipeSpawner.cs",
+              "ToolTip": "C:\\Users\\saksh\\OneDrive\\Desktop\\Study\\gamdev\\Hoppy Pig\\Assets\\scripts\\PipeSpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\PipeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:30:05.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
